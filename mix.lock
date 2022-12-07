@@ -1,0 +1,3 @@
+%{
+  "reaxive": {:hex, :reaxive, "0.1.0", "75b06ec94e853db81f11f061f724f72262ce9dbe22c25fef355b42a50d68a3d9", [:mix], [], "hexpm", "d185c80da34499999000f6aaab3ab891cdff34cb3a2079835e8e6f5b4e813fa2"},
+}
